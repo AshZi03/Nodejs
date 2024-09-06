@@ -6,7 +6,7 @@ const app = express();
  
 // Define a route for the root URL
 app.get('/', (req, res) => {
-  res.send('Hello, World! i am new this is automated though pipeline1');
+  res.send('Hello, World! i am new this is automated though pipeline2');
 });
  
 // Define the port number and start the server
